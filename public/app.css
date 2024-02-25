@@ -1,0 +1,22 @@
+
+.card-img-top {
+    max-height: 200px; /* Ajusta esta altura según tus necesidades */
+    object-fit: cover; /* Ajusta la imagen para que ocupe toda la caja sin distorsionarse */
+}
+.invisible {
+    display: none;
+}
+.buttona{
+    margin-left: 1%; margin-bottom: 1%;
+}
+.centrado{
+    margin-left: 15%;
+}
+.form-funciones-cine{
+    margin-left: 550px;
+    height: 400px;
+    width: 400px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: aquamarine;
+}
