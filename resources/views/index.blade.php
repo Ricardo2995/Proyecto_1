@@ -102,7 +102,7 @@
     .modal-header {
         background-color: #041BF9;
         color: #fff;
-        padding: 10px;
+        padding: 5px;
     }
 
     .modal-title {
