@@ -1,2 +1,3 @@
 se testeo correctamente la barra
 se testeo correctamente la visualizacion de la pelicula
+se testeo correctamente la funcionalidad de vender boletos
