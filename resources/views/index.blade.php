@@ -41,7 +41,7 @@
     }
 
     .navbar {
-        background-color: #000;
+        background-color: #001;
     }
 
     .navbar-brand {
